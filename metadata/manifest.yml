@@ -92,4 +92,4 @@ Endpoints:
       - Frontend:      "/health"
         Backend:       ""
         Options:       { health: true }
-Source-Url: https://github.com/openshift-qe/phptestonly.git
+Source-Url: https://github.com/xiuwang/phptestonly.git
